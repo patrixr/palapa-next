@@ -1,5 +1,5 @@
 import '../styles/globals.css'
-import 'palapa-core'
+import '@palapa/core'
 import 'palapafile'
 
 function MyApp({ Component, pageProps }) {
