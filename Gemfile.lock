@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ast (2.4.1)
+    parser (2.7.2.0)
+      ast (~> 2.4.1)
+    regexp_parser (1.8.2)
+    ruby2js (3.5.1)
+      parser
+      regexp_parser
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  ruby2js (>= 3.4)
+
+BUNDLED WITH
+   2.1.4
